@@ -2,7 +2,9 @@
 - 👀 I’m interested in Tech and Unity
 - 🌱 I’m currently learning C# with Unity
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me:  Discord: thetechwiz5305    Reddit: u/THeTechWiz5305
+- 📫 How to reach me:
+  - Discord: [thetechwiz5305](https://discord.com/users/796829200962814023)
+  - Business Email: [glitchedcatstudios@gmail.com](mailto:glitchedcatstudios@gmail.com)
 
 <!---
 TheTechWiz5305/TheTechWiz5305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
