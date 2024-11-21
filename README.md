@@ -6,6 +6,8 @@
   - Discord: [thetechwiz5305](https://discord.com/users/796829200962814023)
   - Business Email: [glitchedcatstudios@gmail.com](mailto:glitchedcatstudios@gmail.com)
 
+
+[![Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechwiz5305)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 TheTechWiz5305/TheTechWiz5305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
