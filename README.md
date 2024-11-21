@@ -7,7 +7,10 @@
   - Business Email: [glitchedcatstudios@gmail.com](mailto:glitchedcatstudios@gmail.com)
 
 
-[![Tech's GitHub stats](my-github-readme-stats-ten.vercel.app/api?username=thetechwiz5305)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechwiz5305)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechwiz5305)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 TheTechWiz5305/TheTechWiz5305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
