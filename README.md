@@ -19,8 +19,13 @@ Languages I want to learn:
   
   [![I want to learn these](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
+Operating Systems I daily drive:
 
+  
+  [![i use arch btw](https://skillicons.dev/icons?i=windows,apple,arch)](https://skillicons.dev)
+  
 Software I use:
+
 
   
   [![I know these](https://skillicons.dev/icons?i=unity,visualstudio,vscode,blender,github)](https://skillicons.dev)
