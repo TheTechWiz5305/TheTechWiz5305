@@ -1,35 +1,55 @@
-- 👋 Hi, I’m @TheTechWiz5305
-- I make Unity VR games, and one of them is published on the Meta Horizon Store ([CapuCompany](https://capucompanyvr.com)).
-- I am also making a VR extension of the Mirror Networking system, called [MirrorVR](https://github.com/Glitched-Cat-Studios/MirrorVR).
+# THeTechWiz5305
+Hello! I'm Tech Wizard, or most people just call me Tech!
 
-- 📫 How to reach me:
-  - Discord: [thetechwiz5305](https://discord.com/users/796829200962814023)
-  - Business Email: [glitchedcatstudios@gmail.com](mailto:glitchedcatstudios@gmail.com)
+## About Me
+I'm a Unity XR Developer, C# Programmer, and cat-lover.<br><br>
+I daily drive both Windows and macOS for Desktop, and I'm an Android-lover for mobile.<br>
+I also have a laptop that has Arch Linux, just to mess around on.
 
+### Projects
+- [MirrorVR](https://github.com/CodedImmersions/MirrorVR) - A wrapper for Mirror Networking that adds easy VR support.
+- [EOSTransport](https://github.com/CodedImmersions/EOSTransport) - A transport for Mirror Networking using Epic Online Services to provide free P2P services.
+- [CI Obfuscator](https://github.com/CodedImmersions/CI-Obfuscator) - An obfuscator for Unity 2020+ that renames GameObjects in scenes.
 
+### Games
+- [CapuCompany](https://meta.com/experiences/7918774941542807)
+- [Monke Manic](https://meta.com/experiences/6779835968771192) (Developer)
 
-Languages I know:
+### Contact
+- Discord - [thetechwiz5305](https://discord.com/users/796829200962814023)
+- Email - [contact@codedimmersions.com](mailto:contact@codedimmersions.com)
 
-  
-  [![I know these](https://skillicons.dev/icons?i=cs,js,html,css)](https://skillicons.dev)
+## Device Specs
+### Windows PC:
+- CPU - AMD Ryzen 5 7600X
+- GPU - Nvidia GeForce RTX 4060
+- RAM - 32 GB DDR5, 6400MT/s, CL32, 2x16GB
+- Motherboard - GIGABYTE B650 Eagle AX
+- Case - NZXT H7 Elite
+- Keyboard - Corsair K95 Platinum XT
+- Mouse - Logitech G905 Lightspeed
+- Monitors - 1x AOC 24G4, 1x AOC 24G15N
 
+------------------------
+### Laptops:
+#### macOS:
+- Home - White MacBook Pro M1 Late 2020
+- School - Space Gray MacBook Air M1 2020
 
-Languages I want to learn:
+#### Arch Linux:
+- Some old ASUS laptop idk
 
-  
-  [![I want to learn these](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+------------------------
+### Mobile:
+- Main - Sony Xperia 1 III (XQ-BC62) (Android 13)
+- Old (as backup) - Sony Xperia 1 II (XQ-AT52) (Android 12)
 
-Operating Systems I daily drive:
+------------------------
+### Misc:
+- Meta Quest Headsets - Meta Quest 2 and Meta Quest 3
+- Headphones - Bose QC-15
+- Watch - Samsung Galaxy Watch5 Pro
 
-  
-  [![i use arch btw](https://skillicons.dev/icons?i=windows,apple,arch)](https://skillicons.dev)
-  
-Software I use:
-
-
-  
-  [![I know these](https://skillicons.dev/icons?i=unity,visualstudio,vscode,blender,github)](https://skillicons.dev)
-  
 <!---
 TheTechWiz5305/TheTechWiz5305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
