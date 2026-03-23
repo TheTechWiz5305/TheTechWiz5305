@@ -6,6 +6,8 @@ I'm a Unity XR Developer, C# Programmer, and cat-lover.<br><br>
 I daily drive both Windows and macOS for Desktop, and I'm an Android-lover for mobile.<br>
 I also have a laptop that has Arch Linux, just to mess around on.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheTechWiz5305&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Projects
 - [MirrorVR](https://github.com/CodedImmersions/MirrorVR) - A wrapper for Mirror Networking that adds easy VR support.
 - [EOSTransport](https://github.com/CodedImmersions/EOSTransport) - A transport for Mirror Networking using Epic Online Services to provide free P2P services.
