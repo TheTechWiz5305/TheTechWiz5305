@@ -44,12 +44,12 @@ I'm addicted to cell towers for some reason.
 
 ------------------------
 ### Mobile:
-- Main - Sony Xperia 1 III (XQ-BC62) (Android 13)
+- Main - Sony Xperia 1 VI (XQ-EC72) (Android 16, rooted with Magisk)
 - Old (as backup) - Sony Xperia 1 II (XQ-AT52) (Android 12)
 
 ------------------------
 ### Misc:
-- Meta Quest Headsets - Meta Quest 2 and Meta Quest 3
+- VR Headsets - Meta Quest 2 and Meta Quest 3
 - Headphones - Bose QC-15
 - Watch - Samsung Galaxy Watch5 Pro
 
