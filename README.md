@@ -40,7 +40,7 @@ I'm addicted to cell towers for some reason.
 - School - Space Gray MacBook Air M1 2020
 
 #### Arch Linux:
-- ASUS VivoBook (W412DA)
+- ASUS VivoBook (W412DA) - GNOME
 
 ------------------------
 ### Mobile:
