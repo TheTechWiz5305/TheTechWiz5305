@@ -46,6 +46,7 @@ I'm addicted to cell towers for some reason.
 ### Mobile:
 - Main - Sony Xperia 1 VI (XQ-EC72) (Android 16, rooted with Magisk)
 - Old (as backup) - Sony Xperia 1 II (XQ-AT52) (Android 12)
+- Old Old (for FM Radio) Sony Xperia Z5 Dual (Android 7)
 
 ------------------------
 ### Misc:
