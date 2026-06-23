@@ -12,7 +12,7 @@ I'm addicted to cell towers for some reason.
 ### Projects
 - [MirrorVR](https://github.com/CodedImmersions/MirrorVR) - A wrapper for Mirror Networking that adds easy VR support.
 - [EOSTransport](https://github.com/CodedImmersions/EOSTransport) - A transport for Mirror Networking using Epic Online Services to provide free P2P services.
-- [CI Obfuscator](https://github.com/CodedImmersions/CI-Obfuscator) - An obfuscator for Unity 2020+ that renames GameObjects in scenes.
+- [CI Obfuscator](https://github.com/CodedImmersions/CI-Obfuscator) - A scene + asset obfuscator for Unity Engine.
 
 ### Games
 - [CapuCompany](https://meta.com/experiences/7918774941542807)
@@ -37,10 +37,10 @@ I'm addicted to cell towers for some reason.
 ### Laptops:
 #### macOS:
 - Home - White MacBook Pro M1 Late 2020
-- School - Space Gray MacBook Air M1 2020
+- School - Space Gray MacBook Air M1 2020 (A2337)
 
 #### Arch Linux:
-- ASUS VivoBook (W412DA) - GNOME Desktop Environment
+- ASUS VivoBook (W412DA) - GNOME
 
 ------------------------
 ### Mobile:
