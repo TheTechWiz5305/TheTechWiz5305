@@ -13,6 +13,7 @@ I'm addicted to cell towers for some reason.
 - [MirrorVR](https://github.com/CodedImmersions/MirrorVR) - A wrapper for Mirror Networking that adds easy VR support.
 - [EOSTransport](https://github.com/CodedImmersions/EOSTransport) - A transport for Mirror Networking using Epic Online Services to provide free P2P services.
 - [CI Obfuscator](https://github.com/CodedImmersions/CI-Obfuscator) - A scene + asset obfuscator for Unity Engine.
+- [Vercidium Audio for Unity](https://github.com/CodedImmersions/VAudio-Unity) - A plugin for Vercidium Audio that enables compatibility with Unity.
 
 ### Games
 - [CapuCompany](https://meta.com/experiences/7918774941542807)
