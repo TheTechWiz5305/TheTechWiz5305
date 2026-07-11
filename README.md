@@ -17,7 +17,6 @@ I'm addicted to cell towers for some reason.
 
 ### Games
 - [CapuCompany](https://meta.com/experiences/7918774941542807)
-- [Monke Manic](https://meta.com/experiences/6779835968771192) (Developer)
 
 ### Contact
 - Discord - [thetechwiz5305](https://discord.com/users/796829200962814023)
