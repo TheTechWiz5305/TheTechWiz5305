@@ -53,6 +53,7 @@ I'm addicted to cell towers for some reason.
 ### Misc:
 - VR Headsets - Meta Quest 2 and Meta Quest 3
 - Headphones - Bose QC-15
+- Portable Speaker - OontZ Angle solo
 - Watch - Samsung Galaxy Watch5 Pro
 
 <!---
