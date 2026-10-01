@@ -27,7 +27,7 @@ I'm addicted to cell towers for some reason. `¯\_(ツ)_/¯`
 - CPU - AMD Ryzen 5 7600X
 - GPU - Nvidia GeForce RTX 4060
 - RAM - 32 GB DDR5, 6400MT/s, CL32, 2x16GB
-- Storage - 1 TB WD Black NVME SSD, 4 TB Seagate Server SSD
+- Storage - 1 TB WD Black NVME SSD, 4 TB Seagate Server HDD
 - Motherboard - GIGABYTE B650 Eagle AX
 - Case - NZXT H7 Elite
 - Keyboard - Corsair K95 Platinum XT
