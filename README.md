@@ -53,8 +53,9 @@ I'm addicted to cell towers for some reason. `¯\_(ツ)_/¯`
 ### Misc:
 - VR Headsets - Meta Quest 2 and Meta Quest 3
 - Headphones - Bose QC-15
-- Portable Speaker - OontZ Angle solo
+- Portable Speaker - OontZ Angle Solo
 - Watch - Samsung Galaxy Watch5 Pro
+- SDR - RTL-SDR Blog v4
 
 <!---
 TheTechWiz5305/TheTechWiz5305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
